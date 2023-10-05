@@ -10,10 +10,8 @@
   <link rel="icon" type="image/png" href="images/favicon.png">
   <!--favicon-img-->
 
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.1/css/swiper.min.css"
-    integrity="sha256-DBYdrj7BxKM3slMeqBVWX2otx7x4eqoHRJCsSDJ0Nxw=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.1/css/swiper.min.css" integrity="sha256-DBYdrj7BxKM3slMeqBVWX2otx7x4eqoHRJCsSDJ0Nxw=" crossorigin="anonymous" />
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/gsap.min.js"></script>
   <link rel="stylesheet" href="css/style.css" />
 </head>
@@ -564,28 +562,34 @@
 
   </div>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.1/js/swiper.min.js"
-    integrity="sha256-4sETKhh3aSyi6NRiA+qunPaTawqSMDQca/xLWu27Hg4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.1/js/swiper.min.js" integrity="sha256-4sETKhh3aSyi6NRiA+qunPaTawqSMDQca/xLWu27Hg4=" crossorigin="anonymous"></script>
   <script src="js/jquery.min.js"></script>
   <script src="js/bez.js"></script>
   <script src="js/pace.js"></script>
   <script src="js/index.js"></script>
   <script>
-    $(function () {
+    $(function() {
       //marine-slideshow
       var slide_index = 1;
       displaySlides(slide_index);
+
       function nextSlide() {
         displaySlides(slide_index++);
       }
+
       function prevslide() {
         displaySlides(slide_index--);
       }
+
       function displaySlides() {
         var i;
         var slides = document.getElementsByClassName("slides");
-        if (slide_index > slides.length) { slide_index = 1 }
-        if (slide_index < 1) { slide_index = slides.length }
+        if (slide_index > slides.length) {
+          slide_index = 1
+        }
+        if (slide_index < 1) {
+          slide_index = slides.length
+        }
         for (i = 0; i < slides.length; i++) {
           slides[i].style.opacity = 0;
 
@@ -602,20 +606,27 @@
 
     //forest slideshow
 
-    $(function () {
+    $(function() {
       var slide_index = 1;
       displaySlides(slide_index);
+
       function nextSlide() {
         displaySlides(slide_index++);
       }
+
       function prevslide() {
         displaySlides(slide_index--);
       }
+
       function displaySlides() {
         var i;
         var slides = document.getElementsByClassName("forest-slides");
-        if (slide_index > slides.length) { slide_index = 1 }
-        if (slide_index < 1) { slide_index = slides.length }
+        if (slide_index > slides.length) {
+          slide_index = 1
+        }
+        if (slide_index < 1) {
+          slide_index = slides.length
+        }
         for (i = 0; i < slides.length; i++) {
           slides[i].style.opacity = 0;
 
@@ -632,20 +643,27 @@
 
     //wildlife slideshow
 
-    $(function () {
+    $(function() {
       var slide_index = 1;
       displaySlides(slide_index);
+
       function nextSlide() {
         displaySlides(slide_index++);
       }
+
       function prevslide() {
         displaySlides(slide_index--);
       }
+
       function displaySlides() {
         var i;
         var slides = document.getElementsByClassName("wildlife-slides");
-        if (slide_index > slides.length) { slide_index = 1 }
-        if (slide_index < 1) { slide_index = slides.length }
+        if (slide_index > slides.length) {
+          slide_index = 1
+        }
+        if (slide_index < 1) {
+          slide_index = slides.length
+        }
         for (i = 0; i < slides.length; i++) {
           slides[i].style.opacity = 0;
 
@@ -663,20 +681,27 @@
 
     //city slideshow
 
-    $(function () {
+    $(function() {
       var slide_index = 1;
       displaySlides(slide_index);
+
       function nextSlide() {
         displaySlides(slide_index++);
       }
+
       function prevslide() {
         displaySlides(slide_index--);
       }
+
       function displaySlides() {
         var i;
         var slides = document.getElementsByClassName("city-slides");
-        if (slide_index > slides.length) { slide_index = 1 }
-        if (slide_index < 1) { slide_index = slides.length }
+        if (slide_index > slides.length) {
+          slide_index = 1
+        }
+        if (slide_index < 1) {
+          slide_index = slides.length
+        }
         for (i = 0; i < slides.length; i++) {
           slides[i].style.opacity = 0;
 
@@ -692,7 +717,6 @@
 
 
     })
-
   </script>
 
 
