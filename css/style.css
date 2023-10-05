@@ -27,7 +27,7 @@
 body {
   user-select: none;
   background: #050505;
-  
+
 }
 
 html {
@@ -97,25 +97,25 @@ html {
 }
 
 .parallax-slider .img-container.one {
-  background: url(../images/WEDDING/w02.jpg);
+  background: url(../images/WEDDING/w01.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .parallax-slider .img-container.two {
-  background: url(../images/RECEPTION/r02.jpg);
+  background: url(../images/RECEPTION/r07.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .parallax-slider .img-container.three {
-  background: url(../images/OUTDOORSHOOT/om.jpg);
+  background: url(../images/OUTDOORSHOOT/07.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .parallax-slider .img-container.four {
-  background: url(../images/BABY_SHOOT/b02.bak.jpg);
+  background: url(../images/BABY_SHOOT/b07.jpg);
   background-position: center;
   background-size: cover;
 }

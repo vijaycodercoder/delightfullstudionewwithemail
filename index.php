@@ -20,7 +20,7 @@
 
   <div id="all">
     <div id="preloader">
-      <div class="p">delightfullstudios</div>
+      <div class="p"> delightfullstudios </div>
     </div>
     <div id="breaker"></div>
 
@@ -32,13 +32,13 @@
       <div class="navigation">
 
         <div class="logo home-link fade-down">
-          <a href="#">delightfullstudios</a>
+          <a style="display:flex; justify-content: center; align-items:center;"> <img src="images/logo.png" alt="logo" style="width: 3em;margin-right:1em"> delightfullstudios</a>
         </div>
 
         <div class="navigation-links">
           <ul>
             <!-- <li class="links contact-link fade-down"><a href="#0">Plain</a></li> -->
-            <!-- <li class="links about-link fade-down"><a href="#0">About</a></li> -->
+            <li class="links about-link fade-down"><a href="#0">About</a></li>
             <li class="links contact-link fade-down"><a href="#0">Contact</a></li>
           </ul>
         </div>
@@ -74,7 +74,6 @@
                       <div class="slide-text opacity">
                         <a href="#0" class="project-link wildlife-project-link">Out Door
                           <div class="view-project">CLICK TO VIEW PROJECT</div>
-
                         </a>
                       </div>
                     </div>
@@ -119,10 +118,14 @@
       </div>
       <div class="social-media-links">
         <ul>
-          <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank">FB</a>
+          <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank"><img src="images/icon/meta.png" style="width: 2em;background-position: center;" alt=""></a>
           </li>
-          <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">IN</a> </li>
-          <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">YT</a> </li>
+          <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">
+              <img src="images/icon/insta.png" style="width: 1em;background-position: center;" alt="">
+            </a> </li>
+          <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">
+              <img src="images/icon/youtube.png" style="width: 1em;background-position: center;" alt="">
+            </a> </li>
         </ul>
       </div>
     </div>
@@ -135,7 +138,7 @@
       <div class="navigation navigation-about">
 
         <div class="logo home-link about-opacity">
-          <a href="#">delightfullstudios</a>
+          <a style="display:flex; justify-content: center; align-items:center;"> <img src="images/logo.png" alt="logo" style="width: 3em;margin-right:1em"> delightfullstudios</a>
         </div>
 
         <div class="navigation-links about-opacity">
@@ -188,10 +191,14 @@
         </div>
         <div class="social-media-links about-opacity">
           <ul>
-            <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank">FB</a>
+            <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank"><img src="images/icon/meta.png" style="width: 2em;background-position: center;" alt=""></a>
             </li>
-            <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">IN</a> </li>
-            <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">YT</a> </li>
+            <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">
+                <img src="images/icon/insta.png" style="width: 1em;background-position: center;" alt="">
+              </a> </li>
+            <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">
+                <img src="images/icon/youtube.png" style="width: 1em;background-position: center;" alt="">
+              </a> </li>
           </ul>
         </div>
       </div>
@@ -220,10 +227,10 @@
         <div class="col-12 p-0 m-0">
           <div class="slideshow-container">
             <div class="slides">
-              <img src="images/WEDDING/w01.jpg" alt="marine-image">
+              <img src="images/WEDDING/w02.jpg" alt="marine-image">
             </div>
             <div class="slides">
-              <img src="images/WEDDING/w02.jpg" alt="marine-image">
+              <img src="images/WEDDING/w04.jpg" alt="marine-image">
             </div>
             <div class="slides">
               <img src="images/WEDDING/w03.jpg" alt="marine-image">
@@ -232,7 +239,19 @@
               <img src="images/WEDDING/w01.jpg" alt="marine-image">
             </div>
             <div class="slides">
-              <img src="images/WEDDING/w01.jpg" alt="marine-image">
+              <img src="images/WEDDING/w05.jpg" alt="marine-image">
+            </div>
+            <div class="slides">
+              <img src="images/WEDDING/w06.jpg" alt="marine-image">
+            </div>
+            <div class="slides">
+              <img src="images/WEDDING/w07.jpg" alt="marine-image">
+            </div>
+            <div class="slides">
+              <img src="images/WEDDING/w08.jpg" alt="marine-image">
+            </div>
+            <div class="slides">
+              <img src="images/WEDDING/w09.jpg" alt="marine-image">
             </div>
           </div>
 
@@ -246,10 +265,14 @@
         </div>
         <div class="social-media-links opacity">
           <ul>
-            <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank">FB</a>
+            <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank"><img src="images/icon/meta.png" style="width: 2em;background-position: center;" alt=""></a>
             </li>
-            <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">IN</a> </li>
-            <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">YT</a> </li>
+            <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">
+                <img src="images/icon/insta.png" style="width: 1em;background-position: center;" alt="">
+              </a> </li>
+            <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">
+                <img src="images/icon/youtube.png" style="width: 1em;background-position: center;" alt="">
+              </a> </li>
           </ul>
         </div>
       </div>
@@ -333,16 +356,20 @@
         </div>
         <div class="social-media-links opacity">
           <ul>
-            <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank">FB</a>
+            <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank"><img src="images/icon/meta.png" style="width: 2em;background-position: center;" alt=""></a>
             </li>
-            <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">IN</a> </li>
-            <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">YT</a> </li>
+            <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">
+                <img src="images/icon/insta.png" style="width: 1em;background-position: center;" alt="">
+              </a> </li>
+            <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">
+                <img src="images/icon/youtube.png" style="width: 1em;background-position: center;" alt="">
+              </a> </li>
           </ul>
         </div>
       </div>
       <!-- FOREST PROJECT -->
 
-      <!-- wildlife PROJECT -->
+      <!-- OUTDOORSHOOT PROJECT -->
       <div class="project wildlife-project">
         <div class="navigation navigation-project">
 
@@ -422,10 +449,14 @@
         </div>
         <div class="social-media-links opacity">
           <ul>
-            <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank">FB</a>
+            <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank"><img src="images/icon/meta.png" style="width: 2em;background-position: center;" alt=""></a>
             </li>
-            <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">IN</a> </li>
-            <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">YT</a> </li>
+            <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">
+                <img src="images/icon/insta.png" style="width: 1em;background-position: center;" alt="">
+              </a> </li>
+            <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">
+                <img src="images/icon/youtube.png" style="width: 1em;background-position: center;" alt="">
+              </a> </li>
           </ul>
         </div>
       </div>
@@ -500,10 +531,14 @@
         </div>
         <div class="social-media-links opacity">
           <ul>
-            <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank">FB</a>
+            <li class="fade-up"> <a href="https://www.facebook.com/Delightfulphotographystudios" target="_blank"><img src="images/icon/meta.png" style="width: 2em;background-position: center;" alt=""></a>
             </li>
-            <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">IN</a> </li>
-            <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">YT</a> </li>
+            <li class="fade-up"> <a href="https://instagram.com/delightfulstudios/" target="_blank">
+                <img src="images/icon/insta.png" style="width: 1em;background-position: center;" alt="">
+              </a> </li>
+            <li class="fade-up"><a href="https://www.youtube.com/@DelightfulStudios" target="_blank">
+                <img src="images/icon/youtube.png" style="width: 1em;background-position: center;" alt="">
+              </a> </li>
           </ul>
         </div>
       </div>
@@ -518,7 +553,7 @@
       <div class="navigation navigation-contact">
 
         <div class="logo home-link contact-opacity">
-          <a href="#">delightfullstudios</a>
+          <a style="display:flex; justify-content: center; align-items:center;"> <img src="images/logo.png" alt="logo" style="width: 3em;margin-right:1em"> delightfullstudios</a>
         </div>
 
         <div class="navigation-links contact-opacity">
@@ -537,16 +572,17 @@
 
           <div class="col-12 col-md-12 col-lg-12 col-sm-12 col-xs-12 p-0 m-0">
             <div class="form contact-opacity" autocomplete="false">
-              <form id="myForm" action="mail.php">
+              <form id="myForm" action="mail.php" method="POST">
                 <div class="input-line">
-                  <input id="name" type="text" placeholder="name" class="input-same-line">
-                  <input id="email" type="email" placeholder="email" class="input-same-line">
+                  <input name="name" id="name" type="text" placeholder="name" class="input-same-line">
+                  <input name="email" id="email" type="email" placeholder="email" class="input-same-line">
                 </div>
                 <div class="input-line-column">
-                  <input id="subject" type="text" placeholder="subject">
+                  <input name="number" type="number" placeholder="mobile" class="input-same-line">
+                  <input name="subject" id="subject" type="text" placeholder="subject">
                   <textarea name="textarea" id="body" class="textarea" placeholder="message"></textarea>
                 </div>
-                <button type="button" id="submit" class="hover">Send</button>
+                <button type="submit" id="submit" class="hover">Send</button>
               </form>
             </div>
           </div>
